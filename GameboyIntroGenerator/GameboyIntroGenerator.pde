@@ -1,7 +1,7 @@
 import gifAnimation.*;
 import processing.pdf.*;
 
-final String TITLE = "Game boy";
+final String TITLE = "CherriMarsh";
 final String SUBTITLE = "nintendo";
 int TEXTSIZE = 0;
 final int ANIMATIONLENGTH = 4;
